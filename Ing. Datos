@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducción a la Ingeniería de Datos</title>
+</head>
+<body>
+
+    <!-- Etiqueta semántica 1 -->
+    <header>
+        <!-- Etiqueta semántica 2 (obligatoria) -->
+        <h1>El Mundo de la Ingeniería de Datos</h1>
+    </header>
+
+    <!-- Etiqueta semántica 3 (obligatoria) -->
+    <main>
+        <section>
+            <h2>¿Qué hace un Ingeniero de Datos?</h2>
+            <p>La ingeniería de datos es la práctica de diseñar, construir y mantener la infraestructura o los sistemas que permiten recolectar, almacenar y analizar grandes volúmenes de datos. Es el pilar fundamental para que los científicos de datos y analistas puedan generar valor.</p>
+
+            <h3>Herramientas Tecnológicas Clave</h3>
+            <!-- Requisito: Una lista con al menos tres elementos -->
+            <ul>
+                <li><strong>Bases de Datos:</strong> Conocimiento profundo en SQL (PostgreSQL) y bases de datos NoSQL (MongoDB).</li>
+                <li><strong>Lenguajes de Programación:</strong> Dominio de lenguajes como Python, Java o Scala.</li>
+                <li><strong>Procesamiento de Datos en la Nube:</strong> Uso de plataformas como AWS, Google Cloud Platform (GCP) o Microsoft Azure.</li>
+                <li><strong>Tecnologías Big Data:</strong> Herramientas de procesamiento distribuido como Apache Spark y Apache Kafka.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Galería del Ecosistema de Datos</h2>
+            <!-- Requisito: Al menos tres imágenes -->
+            <!-- Requisito: Atributos ALT muy descriptivos (según la captura de ejemplos de buenos comentarios) -->
+            
+            <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=400&q=80" 
+                 alt="Pantalla de computadora mostrando líneas de código fuente en lenguaje Python y gráficos de análisis estadístico">
+            
+            <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=400&q=80" 
+                 alt="Pasillo iluminado con luces azules dentro de un centro de servidores de procesamiento de datos moderno">
+            
+            <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=400&q=80" 
+                 alt="Persona trabajando en una computadora portátil analizando un tablero de inteligencia de negocios con múltiples diagramas">
+        </section>
+
+        <section>
+            <h2>Recursos Externos de Aprendizaje</h2>
+            <p>Para explorar más sobre la arquitectura de datos, te recomiendo visitar el siguiente recurso:</p>
+            <!-- Requisito: Al menos un enlace a una fuente externa -->
+            <a href="https://roadmap.sh/data-engineer" target="_blank" rel="noopener noreferrer">
+                Mapa de ruta interactivo para ser Ingeniero de Datos (Roadmap.sh)
+            </a>
+        </section>
+    </main>
+
+    <!-- Etiqueta semántica adicional -->
+    <footer>
+        <p>Proyecto Final de HTML - Desarrollado para la certificación.</p>
+    </footer>
+
+</body>
+</html>
